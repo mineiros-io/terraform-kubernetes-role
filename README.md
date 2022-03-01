@@ -139,7 +139,7 @@ The following attributes are exported in the outputs of the module:
 
 ### Kubernetes Documentation
 
--https://kubernetes.io/docs/reference/access-authn-authz/authorization/
+- https://kubernetes.io/docs/reference/access-authn-authz/authorization/
 
 ### Terraform AWS Provider Documentation
 
